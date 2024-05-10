@@ -1,0 +1,15 @@
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\e_course_web.DataAccess.csproj.AssemblyReference.cache
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\e_course_web.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\e_course_web.DataAccess.AssemblyInfoInputs.cache
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\e_course_web.DataAccess.AssemblyInfo.cs
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\e_course_web.DataAccess.csproj.CoreCompileInputs.cache
+D:\workspace\dot_net\e_course_web.DataAccess\bin\Debug\net8.0\e_course_web.DataAccess.deps.json
+D:\workspace\dot_net\e_course_web.DataAccess\bin\Debug\net8.0\e_course_web.DataAccess.dll
+D:\workspace\dot_net\e_course_web.DataAccess\bin\Debug\net8.0\e_course_web.DataAccess.pdb
+D:\workspace\dot_net\e_course_web.DataAccess\bin\Debug\net8.0\e_course_web.Models.dll
+D:\workspace\dot_net\e_course_web.DataAccess\bin\Debug\net8.0\e_course_web.Models.pdb
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\e_course.714A4472.Up2Date
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\e_course_web.DataAccess.dll
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\refint\e_course_web.DataAccess.dll
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\e_course_web.DataAccess.pdb
+D:\workspace\dot_net\e_course_web.DataAccess\obj\Debug\net8.0\ref\e_course_web.DataAccess.dll

@@ -1,0 +1,12 @@
+D:\workspace\dot_net\e_course_web.Models\bin\Debug\net8.0\e_course_web.Models.deps.json
+D:\workspace\dot_net\e_course_web.Models\bin\Debug\net8.0\e_course_web.Models.dll
+D:\workspace\dot_net\e_course_web.Models\bin\Debug\net8.0\e_course_web.Models.pdb
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\e_course_web.Models.csproj.AssemblyReference.cache
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\e_course_web.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\e_course_web.Models.AssemblyInfoInputs.cache
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\e_course_web.Models.AssemblyInfo.cs
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\e_course_web.Models.csproj.CoreCompileInputs.cache
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\e_course_web.Models.dll
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\refint\e_course_web.Models.dll
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\e_course_web.Models.pdb
+D:\workspace\dot_net\e_course_web.Models\obj\Debug\net8.0\ref\e_course_web.Models.dll

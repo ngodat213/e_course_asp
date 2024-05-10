@@ -1,0 +1,15 @@
+D:\workspace\dot_net\e_course_web.Service\bin\Debug\net8.0\e_course_web.Service.deps.json
+D:\workspace\dot_net\e_course_web.Service\bin\Debug\net8.0\e_course_web.Service.dll
+D:\workspace\dot_net\e_course_web.Service\bin\Debug\net8.0\e_course_web.Service.pdb
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\e_course_web.Service.csproj.AssemblyReference.cache
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\e_course_web.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\e_course_web.Service.AssemblyInfoInputs.cache
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\e_course_web.Service.AssemblyInfo.cs
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\e_course_web.Service.csproj.CoreCompileInputs.cache
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\e_course_web.Service.dll
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\refint\e_course_web.Service.dll
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\e_course_web.Service.pdb
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\ref\e_course_web.Service.dll
+D:\workspace\dot_net\e_course_web.Service\bin\Debug\net8.0\e_course_web.Models.dll
+D:\workspace\dot_net\e_course_web.Service\bin\Debug\net8.0\e_course_web.Models.pdb
+D:\workspace\dot_net\e_course_web.Service\obj\Debug\net8.0\e_course.D37776F3.Up2Date
